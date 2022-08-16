@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1dc7f11.css",
-    "main.js": "/static/js/main.2d250925.js",
-    "static/js/787.0bca8be2.chunk.js": "/static/js/787.0bca8be2.chunk.js",
-    "static/media/SEGA.TTF": "/static/media/SEGA.8a619f32417a0fe72728.TTF",
-    "index.html": "/index.html",
-    "main.c1dc7f11.css.map": "/static/css/main.c1dc7f11.css.map",
-    "main.2d250925.js.map": "/static/js/main.2d250925.js.map",
-    "787.0bca8be2.chunk.js.map": "/static/js/787.0bca8be2.chunk.js.map"
+    "main.css": " https://shreshthcodes.github.io/Greeting-Generator/static/css/main.4ac58c86.css",
+    "main.js": " https://shreshthcodes.github.io/Greeting-Generator/static/js/main.4a90f033.js",
+    "static/js/787.0bca8be2.chunk.js": " https://shreshthcodes.github.io/Greeting-Generator/static/js/787.0bca8be2.chunk.js",
+    "static/media/SEGA.TTF": " https://shreshthcodes.github.io/Greeting-Generator/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": " https://shreshthcodes.github.io/Greeting-Generator/index.html",
+    "main.4ac58c86.css.map": " https://shreshthcodes.github.io/Greeting-Generator/static/css/main.4ac58c86.css.map",
+    "main.4a90f033.js.map": " https://shreshthcodes.github.io/Greeting-Generator/static/js/main.4a90f033.js.map",
+    "787.0bca8be2.chunk.js.map": " https://shreshthcodes.github.io/Greeting-Generator/static/js/787.0bca8be2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1dc7f11.css",
-    "static/js/main.2d250925.js"
+    "static/css/main.4ac58c86.css",
+    "static/js/main.4a90f033.js"
   ]
 }
